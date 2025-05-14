@@ -1,4 +1,3 @@
-Collecting workspace information```markdown
 # HLE72: Evaluating LLM Performance With and Without Conversation History
 
 ## Project Overview
