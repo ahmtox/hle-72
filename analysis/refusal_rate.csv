@@ -1,0 +1,13 @@
+Model,History,Refusal Rate,Refusals,Total Questions
+allam-2-7b,no_history,0.0,0,72
+llama-3.1-8b-instant,no_history,0.0,0,72
+gemma2-9b-it,no_history,0.0,0,72
+gemma2-9b-it,with_history,0.0,0,72
+allam-2-7b,with_history,0.0,0,72
+llama-3.3-70b-versatile,with_history,0.0,0,72
+llama3-70b-8192,no_history,0.0,0,72
+llama3-70b-8192,with_history,0.0,0,72
+gemini-2.0-flash-lite,no_history,0.0,0,72
+llama-3.3-70b-versatile,no_history,0.0,0,72
+llama-3.1-8b-instant,with_history,0.0,0,72
+gemini-2.0-flash-lite,with_history,0.0,0,72

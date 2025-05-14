@@ -1,0 +1,788 @@
+[
+  {
+    "id": 1,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Kim is packing eggs into boxes. Each box holds 6 eggs. She has 94 eggs. What is the smallest number of boxes she needs to pack all the eggs?",
+    "choices": { "A": "14", "B": "15", "C": "16", "D": "17" },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Which number is equal to 3/5?",
+    "choices": { "A": "0.8", "B": "0.6", "C": "0.53", "D": "0.35" },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "42.65 + 5.748 =",
+    "choices": { "A": "48.403", "B": "48.398", "C": "48.39", "D": "48.958" },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "What is the sum of the three consecutive whole numbers with 2n as the middle number?",
+    "choices": { "A": "6n + 3", "B": "6n", "C": "6n - 1", "D": "6n - 3" },
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "There were m boys and n girls in a parade. Each person carried 2 balloons. Which of these expressions represents the total number of balloons that were carried in the parade?",
+    "choices": {
+      "A": "2(m + n)",
+      "B": "2 + (m + n)",
+      "C": "2m + n",
+      "D": "m + 2n"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "The table below shows the shadow lengths of four bushes of different heights at 10 a.m. What is the shadow length at 10 a.m. of a bush that has a height of 50 centimeters?\\nBush height (cm),Shadow length (cm)\\n20,16\\n40,32\\n60,48\\n80,64",
+    "choices": { "A": "36 cm", "B": "38 cm", "C": "40 cm", "D": "42 cm" },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "The taxi company has a basic charge of 25 zeds and a charge of 0.2 zeds for each kilometer the taxi is driven. Which of these represents the cost in zeds to hire a taxi for a trip of n kilometers?",
+    "choices": {
+      "A": "25 + 0.2n",
+      "B": "25 x 0.2n",
+      "C": "0.2 x (25 + n)",
+      "D": "0.2 x 25 + n"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "If t is a number between 6 and 9, then t + 5 is between what two numbers?",
+    "choices": {
+      "A": "1 and 4",
+      "B": "10 and 13",
+      "C": "11 and 14",
+      "D": "30 and 45"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "What does xy + 1 mean?",
+    "choices": {
+      "A": "Add 1 to y, then multiply by x.",
+      "B": "Multiply x and y by 1.",
+      "C": "Add x to y, then add 1.",
+      "D": "Multiply x by y, then add 1."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Which expression is equivalent to 4(3 + x)?",
+    "choices": { "A": "12 + x", "B": "7 + x", "C": "12 + 4x", "D": "12x" },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "a + b = 25. What is the value of 2a + 2b + 4?",
+    "choices": { "A": "50", "B": "54", "C": "56", "D": "60" },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Solve this inequality. 9x - 6 < 4x + 4",
+    "choices": { "A": "x < 2", "B": "x > 2", "C": "x = 2", "D": "x ≤ 2" },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "x + y = 12 and 2x + 5y = 36. What are the values of x and y?",
+    "choices": {
+      "A": "x = 2, y = 10",
+      "B": "x = 4, y = 8",
+      "C": "x = 6, y = 6",
+      "D": "x = 8, y = 4"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "(0, -1), (1, 3) Which equation is satisfied by BOTH of these pairs of numbers (x, y)?",
+    "choices": {
+      "A": "x + y = -1",
+      "B": "2x + y = 5",
+      "C": "3x - y = 0",
+      "D": "4x - y = 1"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "How many degrees does a minute hand of a clock turn through from 6:20 a.m. to 8:00 a.m. on the same day?",
+    "choices": { "A": "680°", "B": "600°", "C": "540°", "D": "420°" },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "The area of a square is 144 cm^2. What is the perimeter of the square?",
+    "choices": { "A": "12 cm", "B": "48 cm", "C": "288 cm", "D": "576 cm" },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Which of these is equal to 3p^2 + 2p + 2p^2 + p?",
+    "choices": { "A": "8p", "B": "8p^2", "C": "5p^2 + 3p", "D": "7p^2 + p" },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Simplify the expression 3x/8 + x/4 + x/2.",
+    "choices": { "A": "3x/4", "B": "5x/8", "C": "9x/8", "D": "x" },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "A workman cut off 1/5 of a pipe. The piece he cut off was 3 meters long. How many meters long was the original pipe?",
+    "choices": { "A": "8 m", "B": "12 m", "C": "15 m", "D": "18 m" },
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Which fraction is equivalent to 0.125?",
+    "choices": {
+      "A": "125/100",
+      "B": "125/1000",
+      "C": "125/10000",
+      "D": "125/100000"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 21,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Write 23/6 in decimal form, rounded to 2 decimal places.",
+    "choices": { "A": "3.83", "B": "3.67", "C": "3.76", "D": "3.88" },
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Which of these shows how 36 can be expressed as a product of prime factors?",
+    "choices": {
+      "A": "6 x 6",
+      "B": "4 x 9",
+      "C": "4 x 3 x 3",
+      "D": "2 x 2 x 3 x 3"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "4/100 + 3/1000 =",
+    "choices": { "A": "0.043", "B": "0.1043", "C": "0.403", "D": "0.43" },
+    "answer": "A"
+  },
+  {
+    "id": 24,
+    "source": "TIMSS",
+    "background": "none",
+    "question": "Ann and Jenny divide 560 zeds between them. If Jenny gets 3/8 of the money, how many zeds will Ann get?",
+    "choices": { "A": "400", "B": "300", "C": "325", "D": "350" },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "source": "NASA",
+    "background": "nasa-tbl-orb",
+    "question": "What is the average time that Curiosity drove each day?",
+    "choices": {
+      "A": "68 minutes",
+      "B": "72 minutes",
+      "C": "76 minutes",
+      "D": "82 minutes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "source": "NASA",
+    "background": "nasa-tbl-orb",
+    "question": "What is the average distance travelled each day?",
+    "choices": { "A": "54 m", "B": "60 m", "C": "68 m", "D": "75 m" },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "source": "NASA",
+    "background": "nasa-tbl-orb",
+    "question": "What is the average azimuth angle that Curiosity travelled along during the tabulated period?",
+    "choices": { "A": "235°", "B": "243°", "C": "225°", "D": "250°" },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "source": "NASA",
+    "background": "nasa-tbl-orb",
+    "question": "What is the average pitch of Curiosity's travels during this period?",
+    "choices": { "A": "-2°", "B": "-1°", "C": "0°", "D": "+1°" },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "source": "NASA",
+    "background": "nasa-tbl-orb",
+    "question": "What azimuth must Curiosity average over the next five Sols to get back on course to Mt Sharp (225°)?",
+    "choices": { "A": "199°", "B": "207°", "C": "215°", "D": "225°" },
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "source": "NASA",
+    "background": "nasa-tbl-orb",
+    "question": "About how many more Sols will Curiosity need to reach Mt Sharp (7.5 km away)?",
+    "choices": { "A": "90", "B": "100", "C": "110", "D": "120" },
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "source": "NASA",
+    "background": "nasa-flare-tbl",
+    "question": "How many M-class and X-class flares occurred during the period?",
+    "choices": {
+      "A": "27 M and 2 X flares",
+      "B": "31 M and 4 X flares",
+      "C": "30 M and 5 X flares",
+      "D": "35 M and 4 X flares"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "source": "NASA",
+    "background": "nasa-flare-tbl",
+    "question": "What was the total number of B, C, M and X-class flares detected?",
+    "choices": { "A": "875", "B": "1121", "C": "1165", "D": "1300" },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "source": "NASA",
+    "background": "nasa-flare-tbl",
+    "question": "What percentage of all flares were C-class flares?",
+    "choices": { "A": "38 %", "B": "59 %", "C": "3 %", "D": "0.3 %" },
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "source": "NASA",
+    "background": "nasa-flare-tbl",
+    "question": "What was the average number of B-class flares seen each day?",
+    "choices": { "A": "1", "B": "2", "C": "3", "D": "4" },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "source": "NASA",
+    "background": "nasa-flare-tbl",
+    "question": "What is the probability that a randomly chosen day includes an M or X-class flare?",
+    "choices": { "A": "5 %", "B": "10 %", "C": "15 %", "D": "25 %" },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "source": "NASA",
+    "background": "vector-roof-solar",
+    "question": "What are the components of vector A = P₂ - P₁?",
+    "choices": {
+      "A": "15x",
+      "B": "8y + 6z",
+      "C": "10x - 90y + 120z",
+      "D": "10x + 10y"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "source": "NASA",
+    "background": "vector-roof-solar",
+    "question": "What is the magnitude of vector A?",
+    "choices": { "A": "10 m", "B": "12 m", "C": "15 m", "D": "18 m" },
+    "answer": "C"
+  },
+  {
+    "id": 38,
+    "source": "NASA",
+    "background": "vector-roof-solar",
+    "question": "What are the components of the normal vector N to the roof surface?",
+    "choices": {
+      "A": "120z - 90y",
+      "B": "90y - 120z",
+      "C": "120y - 90z",
+      "D": "90x - 120y"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "source": "NASA",
+    "background": "vector-roof-solar",
+    "question": "What is the magnitude of N?",
+    "choices": { "A": "100 m²", "B": "120 m²", "C": "150 m²", "D": "180 m²" },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "source": "NASA",
+    "background": "vector-roof-solar",
+    "question": "What is the dot product F · N (in watts)?",
+    "choices": { "A": "75600", "B": "85800", "C": "95800", "D": "105800" },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "source": "NASA",
+    "background": "vector-roof-solar",
+    "question": "What is the angle between N and S?",
+    "choices": { "A": "30°", "B": "39°", "C": "45°", "D": "51°" },
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "source": "NASA",
+    "background": "cloud-mass",
+    "question": "Which equation correctly expresses mass in terms of density and volume?",
+    "choices": {
+      "A": "Mass = Density + Volume",
+      "B": "Mass = Density x Volume",
+      "C": "Mass = Density ÷ Volume",
+      "D": "Mass = Volume ÷ Density"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "source": "NASA",
+    "background": "cloud-mass",
+    "question": "What is the volume of a spherical cumulus cloud of diameter 3.0 km?",
+    "choices": {
+      "A": "1.4 x 10^9 m³",
+      "B": "1.4 x 10^10 m³",
+      "C": "1.4 x 10^11 m³",
+      "D": "4.2 x 10^10 m³"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "source": "NASA",
+    "background": "cloud-mass",
+    "question": "What is the total mass of the cumulus cloud in metric tons?",
+    "choices": { "A": "420", "B": "1400", "C": "4200", "D": "8400" },
+    "answer": "C"
+  },
+  {
+    "id": 45,
+    "source": "NASA",
+    "background": "cloud-mass",
+    "question": "What is the mass ratio of the cumulus cloud to a cumulonimbus cloud under the given conditions?",
+    "choices": {
+      "A": "1 : 10",
+      "B": "1 : 100",
+      "C": "1 : 1000",
+      "D": "1 : 10000"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "source": "NASA",
+    "background": "rainfall-rates",
+    "question": "1.6 in of rain fell between 08:00 and 13:00. What type of storm was this?",
+    "choices": {
+      "A": "Light Rain",
+      "B": "Moderate",
+      "C": "Heavy",
+      "D": "Violent"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "source": "NASA",
+    "background": "rainfall-rates",
+    "question": "How many litres of water fell on a 100 km² town in a 3-h light shower at 2 mm h⁻¹?",
+    "choices": {
+      "A": "6.0 x 10^7 L",
+      "B": "6.0 x 10^8 L",
+      "C": "6.0 x 10^9 L",
+      "D": "6.0 x 10^10 L"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "source": "NASA",
+    "background": "rainfall-rates",
+    "question": "Earth receives 500000 km³ of rain per year over 500 million km².  What is the average rainfall rate in mm h⁻¹?",
+    "choices": {
+      "A": "0.05 mm h⁻¹",
+      "B": "0.08 mm h⁻¹",
+      "C": "0.11 mm h⁻¹",
+      "D": "0.20 mm h⁻¹"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 49,
+    "source": "NAEP",
+    "background": "naep-read-fish",
+    "question": "Which of the following best describes the person speaking in the poem?",
+    "choices": {
+      "A": "Thoughtful and observant",
+      "B": "Tired and victorious",
+      "C": "Grim and sullen",
+      "D": "Frightened and lonely"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "source": "NAEP",
+    "background": "naep-read-fish",
+    "question": "When the poet says \"Like medals with their ribbons frayed and wavering\" (lines 61–62), she is referring to",
+    "choices": {
+      "A": "victory",
+      "B": "fishhooks",
+      "C": "trophies",
+      "D": "fish scales"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "source": "NAEP",
+    "background": "naep-read-fun",
+    "question": "On page 3, when the author mentions the possibility of people turning into puritans, she is using this word to refer to people who",
+    "choices": {
+      "A": "lived a long time ago",
+      "B": "rarely make a mistake",
+      "C": "are serious and reserved",
+      "D": "dress in plain and dark clothing"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "source": "NAEP",
+    "background": "naep-read-fun",
+    "question": "At the beginning of the essay, the author suggests that people are so concerned with having fun that they",
+    "choices": {
+      "A": "try to find fun in all their experiences",
+      "B": "spend a lot of money trying to have fun",
+      "C": "join groups to learn how to have fun",
+      "D": "avoid new experiences that may not be fun"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "source": "NAEP",
+    "background": "naep-read-fun",
+    "question": "What is the author's point about big occasions like holidays?",
+    "choices": {
+      "A": "They go by too quickly to be enjoyed.",
+      "B": "They are not as much fun as people expect them to be.",
+      "C": "They have become too centered around money.",
+      "D": "They help us to appreciate the important events in life."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "source": "NAEP",
+    "background": "naep-read-fun",
+    "question": "The author assumes that the people reading her essay",
+    "choices": {
+      "A": "probably had fun going to amusement parks as children",
+      "B": "prefer dangerous experiences over fun activities",
+      "C": "may be worried that they are not having enough fun",
+      "D": "enjoy discussing the topic of fun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 55,
+    "source": "NAEP",
+    "background": "naep-read-fun",
+    "question": "On page 4, when the author tells us to \"treat fun reverently,\" she is encouraging us to",
+    "choices": {
+      "A": "look forward to having fun",
+      "B": "have great respect for fun",
+      "C": "teach others how to have fun",
+      "D": "have fun less frequently"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "source": "NAEP",
+    "background": "naep-read-fun",
+    "question": "In the paragraph beginning \"Think of all the things that got the reputation of being fun,\" what is the author implying?",
+    "choices": {
+      "A": "It is possible to have fun in a wide range of activities.",
+      "B": "A person's reputation is based on how much fun the person has.",
+      "C": "Most daily activities are less important than we think.",
+      "D": "We should not expect everything in life to be fun."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 57,
+    "source": "NAEP",
+    "background": "naep-read-meters",
+    "question": "According to the article, why did Ellie do much of her research after 6 p.m.?",
+    "choices": {
+      "A": "She did not want people to learn about her project.",
+      "B": "She did not want to inconvenience motorists.",
+      "C": "She had to focus on a sample of 50 meters.",
+      "D": "She saved money because the meters cost less after 6 p.m."
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "source": "NAEP",
+    "background": "naep-read-meters",
+    "question": "According to the article, what did Ellie learn from doing her meter project?",
+    "choices": {
+      "A": "Every fourth meter ran too quickly.",
+      "B": "Nine out of ten digital meters were accurate.",
+      "C": "3,600 parking meters were inaccurate.",
+      "D": "Almost none of the 50 meters ran too slowly."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "source": "NAEP",
+    "background": "naep-read-meters",
+    "question": "What happened when Ellie presented her report at the science fair?",
+    "choices": {
+      "A": "She won first prize for her computer-generated graphics.",
+      "B": "Other students were interested in her findings.",
+      "C": "Parents wanted to tell her their own parking-meter stories.",
+      "D": "She decided to pursue meter monitoring as a career."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 60,
+    "source": "NAEP",
+    "background": "naep-read-meters",
+    "question": "What was the city of Berkeley's reaction to Ellie's findings?",
+    "choices": {
+      "A": "The city hired 50 more meter monitors.",
+      "B": "The city let the state legislature handle the problem.",
+      "C": "The city gave refunds to people cheated by the meters.",
+      "D": "The city purchased 2,000 new parking meters."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 61,
+    "source": "NAEP",
+    "background": "naep-read-meters",
+    "question": "In the article, the governor of California speaks of Ellie's \"ingenuity and dedication.\" As used in the article, the word \"ingenuity\" means",
+    "choices": {
+      "A": "cleverness",
+      "B": "fame",
+      "C": "stubbornness",
+      "D": "gratitude"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "source": "NAEP",
+    "background": "naep-read-meters",
+    "question": "\"We don't get reports this thorough when we pay consultants hundreds of thousands of dollars.\"  The author included this information to",
+    "choices": {
+      "A": "show how the city saves money",
+      "B": "describe the city budget",
+      "C": "emphasize Ellie's achievement",
+      "D": "criticize the city of Berkeley"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 63,
+    "source": "NAEP",
+    "background": "naep-read-shark",
+    "question": "What is the main purpose of the article?",
+    "choices": {
+      "A": "To explain why the aquarium released the white shark",
+      "B": "To compare white sharks with other fish living in captivity",
+      "C": "To argue that white sharks should be studied more",
+      "D": "To describe how one white shark survived living in an aquarium"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 64,
+    "source": "NAEP",
+    "background": "naep-read-shark",
+    "question": "On page 2, when John O'Sullivan says the baby white shark is fascinating, he means that she",
+    "choices": {
+      "A": "was swimming very fast",
+      "B": "was very interesting to watch",
+      "C": "could swim better than other sharks",
+      "D": "liked to perform for aquarium visitors"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "source": "NAEP",
+    "background": "naep-read-shark",
+    "question": "According to the article, why has it been difficult to keep white sharks in captivity?",
+    "choices": {
+      "A": "They grow too quickly.",
+      "B": "They escape from the outer tank.",
+      "C": "They do not eat.",
+      "D": "They need very large tanks."
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "source": "NAEP",
+    "background": "naep-read-shark",
+    "question": "On page 2, when the article says that the baby shark had been caught accidentally, this means that",
+    "choices": {
+      "A": "the fisherman was not trying to catch a shark",
+      "B": "the shark was hurt while it was being caught",
+      "C": "the fisherman had used a special floating pen",
+      "D": "the shark had bumped into the fishing boat"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 67,
+    "source": "NAEP",
+    "background": "naep-read-shark",
+    "question": "After she was captured, why was the baby white shark kept in a special floating pen?",
+    "choices": {
+      "A": "To help her get used to a small space",
+      "B": "To make sure she would not attack other fish",
+      "C": "To help her learn how to eat different food",
+      "D": "To make sure she was not sick"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "source": "NAEP",
+    "background": "naep-read-shark",
+    "question": "Why did scientists attach a tag to the white shark before setting her free?",
+    "choices": {
+      "A": "To track her growth over the next few years",
+      "B": "To make sure she stayed healthy after her release",
+      "C": "To prevent her from being caught by fishing boats",
+      "D": "To track where she swam after her release"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "source": "NAEP",
+    "background": "naep-read-alligator",
+    "question": "What does the poem mainly describe?",
+    "choices": {
+      "A": "A personal experience",
+      "B": "An unusual dream",
+      "C": "The danger of alligators",
+      "D": "Traveling in Florida"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "source": "NAEP",
+    "background": "naep-read-alligator",
+    "question": "What is the speaker doing at the beginning of the poem?",
+    "choices": {
+      "A": "Watching the birds",
+      "B": "Wading in a stream",
+      "C": "Drinking the water",
+      "D": "Picking wildflowers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 71,
+    "source": "NAEP",
+    "background": "naep-read-alligator",
+    "question": "On page 3, the speaker says \"and, in the end, this isn't a poem about foolishness.\" What is the purpose of these lines in relation to the rest of the poem?",
+    "choices": {
+      "A": "To signal a turning point in the poem",
+      "B": "To emphasize the speaker's confusion",
+      "C": "To focus the reader on the first part of the poem",
+      "D": "To show the speaker was embarrassed"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "source": "NAEP",
+    "background": "naep-read-alligator",
+    "question": "The speaker's description of flowers at the end of the poem is mainly meant to emphasize that the speaker",
+    "choices": {
+      "A": "believes nature is unpredictable",
+      "B": "does not understand what is happening",
+      "C": "is reliving a frightening experience",
+      "D": "is seeing the world with a new intensity"
+    },
+    "answer": "D"
+  }
+]
